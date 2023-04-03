@@ -8,7 +8,7 @@ import 'profile_page.dart';
 import 'database_helper.dart';
 import 'settings_page.dart';
 import 'package:syncfusion_flutter_pdfviewer/pdfviewer.dart';
-import 'usermodel.dart';
+import 'usermodel.dart' show User;
 
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
